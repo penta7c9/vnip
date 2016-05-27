@@ -2,10 +2,10 @@
 Vietnamese Input Panel for Linux
 
 # Compile
-$ cd src/
-$ qmake input-panel.pro
-$ make
-$ ./input-panel
+$ cd src/  
+$ qmake input-panel.pro  
+$ make  
+$ ./input-panel  
 
 # Usage
 1. Register the program to a shortcut key
